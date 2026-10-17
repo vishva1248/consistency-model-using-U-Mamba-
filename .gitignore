@@ -1,0 +1,6 @@
+weights/
+*.pt
+*.pth
+*.h5
+dataset/
+data/
